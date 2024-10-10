@@ -1,2 +1,4 @@
 this is readme file
 https://confluence.mobis.co.kr/pages/viewpageattachments.action?pageId=606363539&sortBy=date&highlight=Helm-release-oct-master.zip&
+
+We will have consistent use of our own custom font across the UI but to avoid conflicts, we need to ensure that the Material Icons elements specifically use their own font that will maintain the proper appearance of Material Icons as Material icons rely on specific font family ("Material Icons") to render correctly. However we can only able to match the font's appearance to our custom font by adjusting properties like size, color and alignment but the actual glyphs (icon shapes) will always come from the Material Icons font.
